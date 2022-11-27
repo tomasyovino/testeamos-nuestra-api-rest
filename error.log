@@ -1,0 +1,6 @@
+[2022-11-25T20:24:08.690] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'registerUser')
+    at registerNewUser (file:///C:/Users/Tomy%20puto/Desktop/desafio/src/services/user.services.js:36:31)
+    at async registerNewUserController (file:///C:/Users/Tomy%20puto/Desktop/desafio/src/controllers/User.controller.js:14:12)
+[2022-11-25T20:27:24.224] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'registerUser')
+    at registerNewUser (file:///C:/Users/Tomy%20puto/Desktop/desafio/src/services/user.services.js:36:31)
+    at async registerNewUserController (file:///C:/Users/Tomy%20puto/Desktop/desafio/src/controllers/User.controller.js:14:12)

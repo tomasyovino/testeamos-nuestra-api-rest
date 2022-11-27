@@ -1,0 +1,12 @@
+[
+  {
+    "username": "tom",
+    "password": "$2b$08$lpvIqxBXQoDOdmh8E8NZruZJdgh4fzOkUXn3IrIJV5rxUWWwaoouy",
+    "email": "tomasyovino@gmail.com",
+    "direction": "asdl",
+    "birthDate": "1818",
+    "phoneNumber": "515161",
+    "imgUrl": "http://localhost:8080/img/token_1.png",
+    "_id": 1
+  }
+]
